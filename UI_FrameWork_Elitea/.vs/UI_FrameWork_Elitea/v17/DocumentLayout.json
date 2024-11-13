@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE49651-01AC-4888-AA26-AED54C54AB41}|AutomationFrameWorkUtilities\\AutomationFrameWorkUtilities.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\automationframeworkutilities\\driverutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE49651-01AC-4888-AA26-AED54C54AB41}|AutomationFrameWorkUtilities\\AutomationFrameWorkUtilities.csproj|solutionrelative:automationframeworkutilities\\driverutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\framework.core\\loginpage\\loginpage.pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|solutionrelative:framework.core\\loginpage\\loginpage.pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\framework.core\\loginpage\\loginpage.locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|solutionrelative:framework.core\\loginpage\\loginpage.locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB368457-D86A-4E2B-9B09-E6EDF7F15C5F}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\specflowtest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB368457-D86A-4E2B-9B09-E6EDF7F15C5F}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB368457-D86A-4E2B-9B09-E6EDF7F15C5F}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\specflowtest\\stepdefinitions\\loginpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB368457-D86A-4E2B-9B09-E6EDF7F15C5F}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\loginpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|c:\\users\\gurram_lokesh\\desktop\\elitea-ui\\ui_framework_elitea\\framework.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5FFA9E-E10B-4ABE-A3C6-6DBF103DA696}|FrameWork.Core\\FrameWork.Core.csproj|solutionrelative:framework.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\SpecFlowTest\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\SpecFlowTest\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "SpecFlowTest\\Hooks\\Hooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:32:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPageStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\SpecFlowTest\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\SpecFlowTest\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:47:47.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.Locators.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\LoginPage\\LoginPage.Locators.cs",
+              "RelativeDocumentMoniker": "FrameWork.Core\\LoginPage\\LoginPage.Locators.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\LoginPage\\LoginPage.Locators.cs",
+              "RelativeToolTip": "FrameWork.Core\\LoginPage\\LoginPage.Locators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:47:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.Pages.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\LoginPage\\LoginPage.Pages.cs",
+              "RelativeDocumentMoniker": "FrameWork.Core\\LoginPage\\LoginPage.Pages.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\LoginPage\\LoginPage.Pages.cs",
+              "RelativeToolTip": "FrameWork.Core\\LoginPage\\LoginPage.Pages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:47:09.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverUtility.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\AutomationFrameWorkUtilities\\DriverUtility.cs",
+              "RelativeDocumentMoniker": "AutomationFrameWorkUtilities\\DriverUtility.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\AutomationFrameWorkUtilities\\DriverUtility.cs",
+              "RelativeToolTip": "AutomationFrameWorkUtilities\\DriverUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "FrameWork.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\gurram_lokesh\\Desktop\\Elitea-UI\\UI_FrameWork_Elitea\\FrameWork.Core\\Class1.cs",
+              "RelativeToolTip": "FrameWork.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:43:05.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
