@@ -9,7 +9,17 @@ namespace AutomationFrameworkUtilities
         public static IWebDriver InitializeDriver(string browserType)
         {
             // Initialize WebDriver based on browser type
-            // Placeholder for WebDriver initialization logic
+            switch (browserType)
+{
+    case "Chrome":
+        driver = new ChromeDriver();
+        break;
+    case "Firefox":
+        driver = new FirefoxDriver();
+        break;
+    default:
+        throw new ArgumentException("Browser type not supported");
+}
             return null;
         }
 
