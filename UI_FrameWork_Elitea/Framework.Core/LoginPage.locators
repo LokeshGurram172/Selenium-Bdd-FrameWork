@@ -1,0 +1,6 @@
+# Locators for LoginPage
+
+username_input = "#user-name"
+password_input = "#password"
+login_button = "#login-button"
+error_message = ".error-message-container"
