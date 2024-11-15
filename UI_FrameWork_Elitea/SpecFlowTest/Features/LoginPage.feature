@@ -1,13 +1,13 @@
-﻿Feature: Calculator
-![Calculator](https://specflow.org/wp-content/uploads/2020/09/calculator.png)
-Simple calculator for adding **two** numbers
+Feature: Login Functionality
 
-Link to a feature: [Calculator](SpecFlowTest/Features/Calculator.feature)
-***Further read***: **[Learn more about how to generate Living Documentation](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html)**
+Scenario: Successful Login with Valid Credentials
+	Given I am on the Swag Labs login page
+	When I enter valid username and password
+	And I click the login button
+	Then I should be redirected to the products page
 
-@mytag
-Scenario: Add two numbers
-	Given the first number is 50
-	And the second number is 70
-	When the two numbers are added
-	Then the result should be 120
+Scenario: Unsuccessful Login with Invalid Credentials
+	Given I am on the Swag Labs login page
+	When I enter invalid username and password
+	And I click the login button
+	Then I should see an error message indicating invalid credentials
