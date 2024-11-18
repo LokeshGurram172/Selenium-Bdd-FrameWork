@@ -6,8 +6,12 @@ Link to a feature: [Calculator](SpecFlowTest/Features/Calculator.feature)
 ***Further read***: **[Learn more about how to generate Living Documentation](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html)**
 
 @mytag
-Scenario: Add two numbers
-	Given the first number is 50
-	And the second number is 70
-	When the two numbers are added
-	Then the result should be 120
+Scenario: Valid Login
+	Given I am on the Swag Labs login page
+	When I enter valid credentials
+	Then I should be redirected to the products page
+
+Scenario: Invalid Login
+	Given I am on the Swag Labs login page
+	When I enter invalid credentials
+	Then I should see an error message 'Username and password do not match any user in this service'
