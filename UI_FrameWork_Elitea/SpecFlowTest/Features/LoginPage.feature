@@ -11,3 +11,15 @@ Scenario: Add two numbers
 	And the second number is 70
 	When the two numbers are added
 	Then the result should be 120
+
+Scenario: Login with valid credentials
+	Given I am on the Swag Labs login page
+	When I enter valid username 'standard_user' and password 'secret_sauce'
+	And I click the login button
+	Then I should be redirected to the products page
+
+Scenario: Login with invalid credentials
+	Given I am on the Swag Labs login page
+	When I enter invalid username 'invalid_user' and password 'invalid_password'
+	And I click the login button
+	Then an error message should be displayed 'Username and password do not match any user in this service'
